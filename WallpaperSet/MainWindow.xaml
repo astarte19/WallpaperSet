@@ -1,0 +1,23 @@
+﻿<Window x:Class="WallpaperSet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WallpaperSet"
+        mc:Ignorable="d"
+        Title="WallpaperSet" Height="450" Width="800"
+        Background="#262337" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#262337" >
+            <Button x:Name="WallCatalog" Height="35" MinWidth="130" Content="Каталог обоев" Margin="5" Click="WallCatalog_Click" Background="#221F2E" Foreground="White" FontSize="15" BorderThickness="0" ></Button>
+
+            <Button x:Name="WallSettings" Height="35" MinWidth="130" Content="Настройка" Margin="5" Click="WallSettings_Click" Background="#221F2E" Foreground="White" FontSize="15" BorderThickness="0" ></Button>
+        </StackPanel>
+        <Frame  NavigationUIVisibility="Hidden"  x:Name="ViewFrame" Grid.Row="1" Background="#262337" BorderThickness="2"></Frame>
+    </Grid>
+</Window>

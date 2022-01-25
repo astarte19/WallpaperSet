@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Win32;
 using System.Runtime.InteropServices;
+
 namespace WallpaperSet
 {
     

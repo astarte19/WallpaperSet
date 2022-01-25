@@ -28,15 +28,15 @@ namespace WallpaperSet
             animeWorker.UpdatePicture(animeUrls, animeImages);
         }
         
-        String[] animeUrls = {"https://images.wallpaperscraft.ru/image/single/devushka_zontik_dozhd_151317_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/devushka_kotenok_tsvetok_141058_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/devushka_zontik_anime_141156_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/anime_devushka_art_zont_tsvety_rozovyj_98729_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/devushka_trava_gorod_213102_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/devushka_noutbuk_komnata_sidet_90444_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/paren_anime_kompyuter_slezy_grust_komnata_96990_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/devushka_bryunetka_roza_ocharovatelnaya_13325_1920x1080.jpg",
-                              "https://images.wallpaperscraft.ru/image/single/anime_devushka_nebo_162368_1920x1080.jpg" };
+        String[] animeUrls = {"https://images.wallpaperscraft.ru/image/single/siluet_noch_zvezdnoe_nebo_137292_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/devushka_zontik_anime_141156_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/roial_siluet_kosmos_156662_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/devushka_trava_gorod_213102_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/devushka_noch_zvezdnoe_nebo_160928_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/paren_pisatel_knigi_209785_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/devushka_telefon_sneg_213067_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/hudozhnik_holst_kisti_213344_3840x2160.jpg",
+                              "https://images.wallpaperscraft.ru/image/single/devushka_gitara_anime_141048_3840x2160.jpg" };
         private void Image00Button_Click(object sender, RoutedEventArgs e)
         {
             PictureWorker pictureWorker = new PictureWorker();

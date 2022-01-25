@@ -28,15 +28,15 @@ namespace WallpaperSet
             carsWorker.UpdatePicture(carsUrls, carsImages);
         }
         
-        String[] carsUrls = {"https://images.wallpaperscraft.ru/image/single/rollsroyce_vid_speredi_fary_136993_1920x1080.jpg" ,
-                             "https://images.wallpaperscraft.ru/image/single/bmw_mashina_sportkar_144444_1920x1080.jpg" ,
-                             "https://images.wallpaperscraft.ru/image/single/mercedes_benz_s_class_w222_112850_1920x1080.jpg",
-                             "https://images.wallpaperscraft.ru/image/single/koenigsegg_agera_rs_vid_sboku_osen_derevya_107373_1920x1080.jpg",
-                             "https://images.wallpaperscraft.ru/image/single/lamborghini_aventador_lp_750_4_sv_108049_1920x1080.jpg",
-                             "https://images.wallpaperscraft.ru/image/single/mclaren_p1_gtr_mclaren_p1_mclaren_128793_1920x1080.jpg",
-                             "https://images.wallpaperscraft.ru/image/single/toyota_gt86_vid_szadi_vecher_105093_1920x1080.jpg",
-                             "https://images.wallpaperscraft.ru/image/single/bugatti_chiron_bugatti_sportkar_129532_1920x1080.jpg",
-                             "https://images.wallpaperscraft.ru/image/single/ford_mustang_gt_vid_sboku_krasnyj_94340_1920x1080.jpg" };
+        String[] carsUrls = {"https://images.wallpaperscraft.ru/image/single/bugatti_chiron_skorost_vid_sboku_113074_3840x2160.jpg" ,
+                             "https://images.wallpaperscraft.ru/image/single/porsche_911_carrera_rsr_porsche_sportkar_139640_3840x2160.jpg" ,
+                             "https://images.wallpaperscraft.ru/image/single/bmw_avtomobil_bamper_191131_3840x2160.jpg",
+                             "https://images.wallpaperscraft.ru/image/single/mclaren_p1_gtr_mclaren_p1_mclaren_128793_3840x2160.jpg",
+                             "https://images.wallpaperscraft.ru/image/single/avto_vid_speredi_razmytost_119752_3840x2160.jpg",
+                             "https://images.wallpaperscraft.ru/image/single/lamborghini_centenario_vid_sboku_skorost_110265_3840x2160.jpg",
+                             "https://images.wallpaperscraft.ru/image/single/mercedesbenz_mercedes_chernyj_133920_3840x2160.jpg",
+                             "https://images.wallpaperscraft.ru/image/single/audi_r8_v10_vid_sboku_doroga_109803_3840x2160.jpg",
+                             "https://images.wallpaperscraft.ru/image/single/bugatti_chiron_vid_sboku_goluboj_110214_3840x2160.jpg" };
 
         private void Image00Button_Click(object sender, RoutedEventArgs e)
         {

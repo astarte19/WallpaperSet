@@ -28,15 +28,15 @@ namespace WallpaperSet
             cityWorker.UpdatePicture(cityUrls, cityImages);
         }
         
-        String[] cityUrls = {   "https://images.wallpaperscraft.ru/image/single/gorod_noch_panorama_117682_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/gorod_vid_sverhu_doroga_156925_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/doroga_razmetka_most_123398_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/nochnoj_gorod_vid_sverkhu_noch_117531_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/gonkong_kitaj_neboskreby_nochnoj_gorod_ogni_goroda_119347_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/nochnoj_gorod_ogni_goroda_obzor_129026_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/nochnoj_gorod_vyveski_neon_139551_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/zamok_skala_vozvyshennost_127420_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/arkhitektura_gorod_vid_sverkhu_zdaniya_reka_118446_1920x1080.jpg",};
+        String[] cityUrls = {   "https://images.wallpaperscraft.ru/image/single/virshem_germaniya_zamok_tropa_vecher_nebo_119771_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/gorod_noch_panorama_117682_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/ruiny_chelovek_odinochestvo_124279_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/trollejbus_ostanovka_gorod_vecher_osveshchenie_119292_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/nochnoj_gorod_vid_sverkhu_noch_117531_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/most_arhitektura_goticheskij_134848_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/most_osen_gorod_121892_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/yaponiya_sirakava_doma_gory_derevya_112963_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/ulitsa_gorod_zakat_160055_3840x2160.jpg",};
 
         private void Image00Button_Click(object sender, RoutedEventArgs e)
         {

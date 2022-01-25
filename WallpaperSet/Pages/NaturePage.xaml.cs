@@ -27,15 +27,15 @@ namespace WallpaperSet
             PictureWorker natureWorker = new PictureWorker();
             natureWorker.UpdatePicture(natureUrls, natureImages);
         }
-        String[] natureUrls = { "https://images.wallpaperscraft.ru/image/single/tuman_les_tropinka_125819_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/ozero_les_sneg_130421_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/zvezdnoe_nebo_oblaka_zakat_120716_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/okean_pliazh_vid_sverhu_134429_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/doroga_asfalt_razmetka_130996_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/les_tuman_derevia_128751_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/les_tuman_derevia_126479_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/pejzazh_gory_solntse_140434_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/izverzhenie_lava_vulkan_sakura_derevo_45542_1920x1080.jpg",};
+        String[] natureUrls = { "https://images.wallpaperscraft.ru/image/single/lodka_gory_ozero_135258_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/doroga_asfalt_razmetka_130996_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/doroga_razmetka_vecher_oblaka_gorizont_120298_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/les_tuman_derevia_132037_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/zheleznaya_doroga_vecher_gorizont_119944_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/zima_gory_sneg_130143_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/poezd_zheleznaia_doroga_most_122067_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/les_tropinka_leto_125991_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/doroga_asfalt_dozhd_141217_3840x2160.jpg",};
 
         private void Image00Button_Click(object sender, RoutedEventArgs e)
         {

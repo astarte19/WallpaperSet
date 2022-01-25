@@ -28,15 +28,15 @@ namespace WallpaperSet
             absWorker.UpdatePicture(absUrls, absImages);
         }
         
-        String[] absUrls = {    "https://images.wallpaperscraft.ru/image/single/derevo_svet_temnyy_82372_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/abstraktsiya_forma_ostrie_figurka_101902_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/treugolnik_forma_temnyy_figurka_88540_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/kraska_voda_zhidkost_85058_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/oblaka_nebo_abstrakciya_88538_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/nebo_svet_abstrakciya_85064_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/pyatna_fon_linii_abstrakciya_66994_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_svet_83482_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/abstrakciya_3d_art_85489_1920x1080.jpg",};
+        String[] absUrls = {    "https://images.wallpaperscraft.ru/image/single/kristally_oskolki_vzryv_svet_46568_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/polosy_raznotsvetnyj_abstraktsiia_197369_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/tumannost_bliki_svet_150410_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/chernyj_temnyj_fraktal_149686_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/kraska_razvody_puzyri_139829_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/abstraktsiya_linii_volnistyj_113046_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/abstrakciya_fon_linii_yarkiy_blesk_76304_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/low_poly_mnogougolnik_pejzazh_abstraktsiya_103765_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/kraska_tekstura_poverkhnost_116913_3840x2160.jpg",};
 
         private void Image00Button_Click(object sender, RoutedEventArgs e)
         {

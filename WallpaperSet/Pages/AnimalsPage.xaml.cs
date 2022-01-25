@@ -28,15 +28,15 @@ namespace WallpaperSet
             animalsWorker.UpdatePicture(animalsUrls, animalsImages);
         }
         
-        String[] animalsUrls = {"https://images.wallpaperscraft.ru/image/single/kot_zima_pushistyj_sneg_99366_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/volk_skala_obryv_khishchnik_120088_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/volk_volki_khishchniki_tuman_sneg_gory_116660_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/schenok_morda_milyy_pushistyy_66456_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/sobaka_ovcharka_sidit_118661_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/orel_polet_nebo_krylya_oblaka_97499_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/tigr_morda_kamen_vzglyad_hischnik_92029_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/sova_ptica_hischnik_luna_polet_71729_1920x1080.jpg",
-                                "https://images.wallpaperscraft.ru/image/single/schenok_kotenok_para_druzhba_56364_1920x1080.jpg",};
+        String[] animalsUrls = {"https://images.wallpaperscraft.ru/image/single/kot_zima_pushistyj_sneg_99366_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/volk_volki_khishchniki_tuman_sneg_gory_116660_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/volk_skala_obryv_khishchnik_120088_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/shchenok_haski_sobaka_146772_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/popugaj_sinij_ptitsa_119602_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/medved_buryj_trava_prikolnyj_lezhat_101886_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/kot_morda_profil_chernyj_fon_118788_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/sobaka_morda_trava_razmytost_97096_3840x2160.jpg",
+                                "https://images.wallpaperscraft.ru/image/single/enot_morda_zverek_lezhit_107094_3840x2160.jpg",};
 
 
         private void Image00Button_Click(object sender, RoutedEventArgs e)

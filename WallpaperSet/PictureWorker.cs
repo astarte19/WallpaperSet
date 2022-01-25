@@ -17,14 +17,15 @@ using System.Runtime.InteropServices;
 using System.Net;
 using System.IO;
 using System.Drawing;
+using System.Threading;
 
 namespace WallpaperSet
 {
     public class PictureWorker
     {
-       
 
-        //Установка обоев SetWall(Path, 0,0);
+        
+        
         const int SPI_SETDESKWALLPAPER = 20;
         const int SPIF_UPDATEINIFILE = 0x01;
         const int SPIF_SENDWININICHANGE = 0x02;
@@ -42,17 +43,24 @@ namespace WallpaperSet
         SPIF_UPDATEINIFILE | SPIF_SENDWININICHANGE);
 
         }
-
-       public void UpdatePicture(String[] itemUrls, Image[] itemImages)
+       
+      public  void UpdatePicture(String[] itemUrls, Image[] itemImages)
         {
-
+           
             for (int i = 0; i < 9; i++)
             {
-                var uri = new Uri(itemUrls[i]);
-                var bitmap = new BitmapImage(uri);
-                itemImages[i].Source = bitmap;
-            }
+               
+                    var uri = new Uri(itemUrls[i]);
+                    var bitmap = new BitmapImage(uri);
+                    itemImages[i].Source = bitmap;
+               
+                                   
+                 
+               
+            }          
         }
+
+        
         public void DownloadAndSetWall(string url,string i, string imagename)
         {
             string path = @"DownloadedImages/" + imagename + i + ".jpg";
